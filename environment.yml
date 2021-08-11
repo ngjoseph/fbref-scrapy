@@ -1,0 +1,8 @@
+name: fbref
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scrapy
+  - requests
+  - pandas
